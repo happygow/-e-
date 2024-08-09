@@ -1,7 +1,8 @@
-# -e-
-宿城医养e家技术服务支持及隐私权限（support and privacy）
+# 宿城医养e家技术服务支持及隐私权限（support and privacy）
+
 注：如有软件问题，请联系开发人员，我们会及时回复（Hello, if you have any questions or suggestions , please email or have a call to our developer）
 一：软件开发公司信息(Company information)
+
 南京网金网络科技有限公司
 
 统一社会信用代码：91320118MA1X8XH199
@@ -25,25 +26,6 @@ David   email：88503501@qq.com   TEL:+8615295776852
 
 三：软件基本介绍(Introduction of this APP)
 为进一步促进医疗、养老有机融合，打造“智能医养”新模式，探索开发集“医疗、养老、互联网+护理”为一体的软件平台——“宿城医养e家”，让居家养老更幸福。
-
-软件截图：
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
